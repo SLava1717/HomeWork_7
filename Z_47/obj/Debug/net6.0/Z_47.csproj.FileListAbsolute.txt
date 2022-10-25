@@ -1,0 +1,15 @@
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\bin\Debug\net6.0\Z_47.exe
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\bin\Debug\net6.0\Z_47.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\bin\Debug\net6.0\Z_47.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\bin\Debug\net6.0\Z_47.dll
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\bin\Debug\net6.0\Z_47.pdb
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.dll
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\refint\Z_47.dll
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.pdb
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\Z_47.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Рабочий стол\HomeWork_7\Z_47\obj\Debug\net6.0\ref\Z_47.dll
